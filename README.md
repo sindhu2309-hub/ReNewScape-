@@ -1,12 +1,6 @@
 # Waste Management System
 
-
-
-### Video Showcasing our website!
-
 **Our website is Mobile Responsive you may use it with any device!**
-
-
 
 
 ![Waste Management](https://t3.ftcdn.net/jpg/05/73/57/76/360_F_573577614_3xNASp9y2eCUSXstGdXf9sKlW3ZYVyUr.jpg)
@@ -62,36 +56,29 @@ This project addresses the critical issue of improper waste disposal within resi
 
 ## Flowchart Representation
 
-[image]
+
 
 <br>
 
 ## Features Screenshots
 
 ### RazorPay Integration
-![image]
+
 
 ### Comprehensive Signup process with Error Handling!
 
-![image]
 
-![image]
 
 ### Interactive Complaint Form, with feature to upload to upload image (BLOB)
 
-![image]
+
 
 ## Mobile Responsive!
 This website is completely mobile friendly..! Checkout the screenshots below.
 
-![image]
-
-![image]
-
-![image]
-
-![image]
 
 
-Project by - 
+
+
+Project by - Sindhu, Mandara B M, Kavya Navi and Sinchana S Murthy.
 
