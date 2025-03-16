@@ -1,0 +1,30 @@
+{
+  "name": "wastex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon backend/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "joi": "^17.12.2",
+    "jsonwebtoken": "^9.0.2",
+    "mailgen": "^2.0.28",
+    "mongoose": "^8.2.1",
+    "nodemailer": "^6.9.11",
+    "nodemon": "^3.1.0",
+    "razorpay": "^2.9.6"
+  }
+}
