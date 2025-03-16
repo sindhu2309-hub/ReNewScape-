@@ -56,7 +56,7 @@ This project addresses the critical issue of improper waste disposal within resi
 
 ## Flowchart Representation
 
-
+![alt text](<Screenshot 2025-03-16 233104.png>)
 
 <br>
 
@@ -64,20 +64,29 @@ This project addresses the critical issue of improper waste disposal within resi
 
 ### RazorPay Integration
 
+![alt text](<Screenshot 2025-03-16 233042.png>)
 
 ### Comprehensive Signup process with Error Handling!
+
+![alt text](<Screenshot 2025-03-16 232937.png>)
 
 
 
 ### Interactive Complaint Form, with feature to upload to upload image (BLOB)
 
+![alt text](<Screenshot 2025-03-16 232918.png>)
 
 
 ## Mobile Responsive!
 This website is completely mobile friendly..! Checkout the screenshots below.
 
+![alt text](<Screenshot 2025-03-16 232859.png>)
 
+![alt text](<Screenshot 2025-03-16 232844.png>)
 
+![alt text](<Screenshot 2025-03-16 232831.png>)
+
+![alt text](<Screenshot 2025-03-16 232815.png>)
 
 
 Project by - Sindhu, Mandara B M, Kavya Navi and Sinchana S Murthy.
