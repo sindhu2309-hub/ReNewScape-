@@ -1,6 +1,11 @@
 # Waste Management System
 
+![alt text](1.jpg)
+
 **Our website is Mobile Responsive you may use it with any device!**
+
+![alt text](2.jpg)
+
 
 
 ![Waste Management](https://t3.ftcdn.net/jpg/05/73/57/76/360_F_573577614_3xNASp9y2eCUSXstGdXf9sKlW3ZYVyUr.jpg)
@@ -20,6 +25,9 @@ This project addresses the critical issue of improper waste disposal within resi
 
 
 <br>
+
+
+
 
 ## Features 
 - **Donations:** Accepting donations to fund waste management initiatives and infrastructure improvements.
